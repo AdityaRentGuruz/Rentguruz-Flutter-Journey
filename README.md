@@ -16,7 +16,7 @@ Hey there! I’m a **Junior Flutter Developer** at **Rentguruz**, where I’m cr
 ## 📫 Connect With Me  
 - **Email:** [aditya@rentguruz.com](mailto:aditya@rentguruz.com)  
 - **LinkedIn:** [Aditya Kareliya](https://www.linkedin.com/in/aditya-kareliya)  
-- **GitHub:** [github.com/aditya-kareliya](https://github.com/AdityaRentGuruz)  
+- **GitHub:** [github.com/Aditya Kareliya](https://github.com/aditya-kareliya)  
 
 Ping me—I’m always up for a chat about Flutter, tech trends, or cool project ideas!  
 
